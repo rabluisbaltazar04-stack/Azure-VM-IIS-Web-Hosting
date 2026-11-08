@@ -19,7 +19,7 @@ It was my first experience setting up a web server inside a cloud VM instead of 
 
 I was able to open the website in a browser using the VM's public IP address during the activity. Here's a screenshot of one of the pages I hosted:
 
-![A page from my portfolio website hosted during the Azure VM and IIS lab](screenshots/hosted-website.png)
+![My Azure VM and IIS website output](Azure%20Virtual%20Machine%20Output.png)
 
 ## What I learned
 
